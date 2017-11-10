@@ -9,7 +9,9 @@ permalink: /cv/
 * E-mail: v.s.fonov@ilmarin.info
 * Publications (online references): 
    * [Google Scholar: http://scholar.google.ca/citations?user=4YCK0vQAAAAJ](http://scholar.google.ca/citations?user=4YCK0vQAAAAJ)
-   * [Scopus: http://www.scopus.com/authid/detail.uri?authorId=16177314100](http://www.scopus.com/authid/detail.uri?authorId=16177314100)
+   * [Scopus Author ID: 57188953412](https://www.scopus.com/authid/detail.uri?authorId=57188953412)
+   * [orcid.org/0000-0003-3402-7749](http://orcid.org/0000-0003-3402-7749)
+ 
 
 ### Education
 * 1998 Moscow Institute of Physics and Technology (Russia) B.Sc. , Applied Physics & Mathematics
@@ -36,6 +38,7 @@ permalink: /cv/
 * 5th Kyu Aikido-Aikikai, 2006
 * 4th Kyu Aikido-Aikikai, 2007
 * 3rd Kyu Aikido-Aikikai, 2011
+* 2nd Kyu Aikido-Aikikai, 2017
 
 ### Languages
 * Russian (native), English (fluent), French (a little)
