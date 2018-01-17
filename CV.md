@@ -22,7 +22,9 @@ permalink: /cv/
 * MRI image processing, population studies, non-linear registration
 
 ### Work Experience
-* Jul 2008 - now McConnell Brain Imaging Centre Montreal Neurological Institute, McGill University (Canada) Research Associate, MRI image processing research
+* Jul 2008 - present McConnell Brain Imaging Centre Montreal Neurological Institute, McGill University (Canada) Research Associate, MRI image processing research
+* Aug 2017 - present NeuroRx Research Canada. MRI Acquisition & Analysis Expert
+* Nov 2009 - Jul 2017  NeuroRx Research Canada. Member of software development team.
 * Jul 2005 - 2008 McConnell Brain Imaging Centre Montreal Neurological Institute, McGill University (Canada) Postdoc, MRI image processing research in NIHPD project.
 * Nov 2003 - Jun 2005 Innovative Scientific Solutions Inc (USA) Scientist, optical measurements, PSP software developer Responsibilities: research in new data processing algorithms development of data processing software for optical measurements research of new optical measurement techniques
 * 2000 - Oct 2003 Edgewood Technologies Corporation (USA) Software Architect, Algorithm Developer, Researcher Visual C++, OpenGL, Corba, Python, SQL  scientific image processing software for PSP, TSP and PIV applications
