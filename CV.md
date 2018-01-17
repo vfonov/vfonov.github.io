@@ -87,12 +87,16 @@ NeuroImage: clinical 1 (1), 141-152 2012
 * S Karama, ME Bastin, C Murray, NA Royle, L Penke, SM Maniega, et al "Childhood cognitive ability accounts for associations between cognitive ability and brain cortical thickness in old age"
 Molecular psychiatry 19 (5), 555-559    2014
 
-
 For full list see [orcid.org/0000-0003-3402-7749](http://orcid.org/0000-0003-3402-7749)
-
 
 #### Thesis
 * Fonov, V. (2002). Development and Analysis of Data Processing Methods Applied to Luminescent Coating Systems in Aerodynamics, Heriot-Watt University.
+
+#### Peer Review contributions
+* [NeuroImage](https://www.journals.elsevier.com/neuroimage/)
+* [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis/)
+* [Scientific Reports - Nature](https://www.nature.com/srep/)
+* [IEEE Transactions on Medical Imaging](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&punumber=42)
 
 #### Open Source Software contributions
 * Github profile: [vfonov](https://github.com/vfonov/)
