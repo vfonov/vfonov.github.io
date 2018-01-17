@@ -59,9 +59,9 @@ Cerebral Cortex (New York, NY) 22 (1), 1    2012
 * SF Eskildsen, P Coupé, D García-Lorenzo, VS Fonov, JC Pruessner et al "Prediction of Alzheimer's disease in subjects with mild cognitive impairment from the ADNI cohort using patterns of cortical thinning"
 Neuroimage 65, 511-521  2013
 * BS Khundrakpam, A Reid, J Brauer, F Carbonell, J Lewis, S Ameis,et al "Developmental changes in organization of structural brain networks"
-Cerebral Cortex 23 (9), 2072-2085	2012
+Cerebral Cortex 23 (9), 2072-2085   2012
 * JV Manjón, P Coupé, A Buades, V Fonov, DL Collins, M Robles "Non-local MRI upsampling"
-Medical image analysis 14 (6), 784-792	2010
+Medical image analysis 14 (6), 784-792  2010
 * EE Bron, M Smits, WM Van Der Flier, H Vrenken, F Barkhof, P Scheltens, et al "Standardized evaluation of algorithms for computer-aided diagnosis of dementia based on structural MRI: the CADDementia challenge"
 NeuroImage 111, 562-579 2015
 * P Coupé, SF Eskildsen, JV Manjón, VS Fonov, DL Collins, et al. "Simultaneous segmentation and grading of anatomical structures for patient's classification: application to Alzheimer's disease"
@@ -85,7 +85,7 @@ Neuroimage 102, 817-827 2014
 * P Coupé, SF Eskildsen, JV Manjón, VS Fonov, JC Pruessner, M Allard, et al "Scoring by nonlocal image patch estimator for early detection of Alzheimer's disease"
 NeuroImage: clinical 1 (1), 141-152 2012
 * S Karama, ME Bastin, C Murray, NA Royle, L Penke, SM Maniega, et al "Childhood cognitive ability accounts for associations between cognitive ability and brain cortical thickness in old age"
-Molecular psychiatry 19 (5), 555-559	2014
+Molecular psychiatry 19 (5), 555-559    2014
 
 
 For full list see [orcid.org/0000-0003-3402-7749](http://orcid.org/0000-0003-3402-7749)
@@ -96,14 +96,14 @@ For full list see [orcid.org/0000-0003-3402-7749](http://orcid.org/0000-0003-340
 
 #### Open Source Software contributions
 * Github profile: [vfonov](https://github.com/vfonov/)
-* MNI minc-toolkit maintenance: <https://github.com/BIC-MNI/>
-* Contributions for MINC integration in 
-  * Insight Toolkit:<http://www.itk.org/>
-  * ANTs:<http://stnava.github.io/ANTs/>
+* MNI minc-toolkit maintenance an improvements: <https://github.com/BIC-MNI/>
+* Contribution to open source software
+  * Insight Toolkit: <http://www.itk.org/>
+  * ANTs: <http://stnava.github.io/ANTs/>
+  * Torch7: <https://github.com/torch/torch7>
 * Embedded software:
   * enhancements in linux kernel module for camera module in mini2440 board: <https://github.com/vfonov/s3c2440camera>
   * port of mjpg-streamer optimized for mini2440 board: <https://github.com/vfonov/mjpg-streamer-mini2440>
   * uIP-based web server on 8bit AVR cpu: <https://github.com/vfonov/uhttpd-avr>
   * lwiIP-based web server on 8bit AVR cpu: <https://github.com/vfonov/lwip-avr>
   * low-cost USB JTAG dongle based on 8 bit AVR cpu: <https://github.com/vfonov/opendous-jtag>
-  
