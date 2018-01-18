@@ -12,22 +12,22 @@ Scientific writing; data analysis using **R, Python**; machine learning with **s
 ## Work Experience
 * Jul 2008 - present **Research Associate** McConnell Brain Imaging Centre Montreal Neurological Institute, McGill University, Montreal Canada
    * assisting in supervising MSc and PHd students in biomedical engeneering; 
-development of image processing techniques for MRI scans; maintenance of MRI image processing toolkit ( https://github.com/BIC-MNI/ )
-* Nov 2009 - present **MRI Acquisition & Analysis Expert**, NeuroRx Research, Montreal Canada. 
+development of image processing techniques for MRI scans; maintenance of MRI image processing toolkit ( <https://github.com/BIC-MNI/> )
+* Nov 2009 - present **MRI Acquisition & Analysis Expert**, NeuroRx Research, Montreal Canada
    * integration of MRI image processing tools for data analysis of clinical trials for pharmaceutical industry
-* Sep 2013 - present **Owner, Director, CEO** VSFC consultants Inc. , Montreal, Canada
+* Sep 2013 - present **Owner, Director, CEO** VSFC consultants Inc., Montreal Canada
    *  consulting for MRI data analysis, linux system administration services
-* Jul 2005 - 2008 **Postdoc** McConnell Brain Imaging Centre Montreal Neurological Institute, McGill University, Montreal, Canada
+* Jul 2005 - 2008 **Postdoc** McConnell Brain Imaging Centre Montreal Neurological Institute, McGill University, Montreal Canada
    * development of image processing techniques for MRI scans
 * Nov 2003 - Jun 2005 **Scientist** Innovative Scientific Solutions Inc, Dayton OH USA
     * research in new data processing algorithms development of data processing software for optical measurements research of new optical measurement techniques
-* 2000 - Oct 2003 **R&D Engeneer** Edgewood Technologies Corporation (USA) 
+* 2000 - Oct 2003 **R&D Engeneer** Edgewood Technologies Corporation, USA
     * algorithm researcher and development for PSP, TSP and PIV applications in aerodynamic experiments
 * 2001 - 2002 **System Administrator** E-corner Internet Cafe, Edinburgh UK 
-    * linux system administration,technical support
+    * linux system administration, technical support
 * 1994 - 1999 **Software Developer** Central Aero-hydrodynamic Institute - TsAGI, Moscow Reg. Russia 
     * scientific image processing/data acquisition software development
-* 1993 - 1994 **Software Developer** Tver Universal Bank (Russia) 
+* 1993 - 1994 **Software Developer** Tver Universal Bank, Moscow Russia 
     * user interface developement for banking software in DOS environment
 
 ## Education
