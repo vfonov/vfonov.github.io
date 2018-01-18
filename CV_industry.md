@@ -7,7 +7,7 @@ permalink: /cv_ind/
 Researcher and software developer with 15 years of experience in image processing and medical image analysis.
 
 ## Skills
-Scientific writing; data analysis using **R, Python**; machine learning with **scikit-learn, torch**; software development with **C, C++, Python, Lua, Perl, SQL**;linux system administration; embedded software development; linux kernel driver development
+Scientific writing; data analysis using **R, Python**; machine learning with **scikit-learn, torch**; software development with **C, C++, Python, Lua, Perl, SQL**; linux system administration; embedded software development; linux kernel driver development
 
 ## Work Experience
 * Jul 2008 - present **Research Associate** McConnell Brain Imaging Centre Montreal Neurological Institute, McGill University, Montreal Canada
