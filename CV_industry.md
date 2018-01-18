@@ -1,31 +1,29 @@
 ---
 layout: page
 title: CV
-permalink: /cv/
+permalink: /cv_ind/
 ---
 # Vladimir S. FONOV PhD
 
-* Born: June 8, 1977
-* E-mail: v.s.fonov@ilmarin.info
-* Publications (online references): 
-   * [Google Scholar: http://scholar.google.ca/citations?user=4YCK0vQAAAAJ](http://scholar.google.ca/citations?user=4YCK0vQAAAAJ)
-   * [Scopus Author ID: 57188953412](https://www.scopus.com/authid/detail.uri?authorId=57188953412)
-   * [orcid.org/0000-0003-3402-7749](http://orcid.org/0000-0003-3402-7749)
- 
+## Summary
+Researcher and software developer with 15 years of experience in image processing and medical image analysis.
 
-### Education
-* 1998 Moscow Institute of Physics and Technology (Russia) B.Sc. , Applied Physics & Mathematics
-* 1999 Moscow Institute of Physics and Technology (Russia) M.Sc. , Applied Physics & Mathematics
-* 2003 Heriot Watt University (UK) Ph.D. , Digital Image Processing & Optical Measurements
+## Skills
+Scientific writing; data analysis using R,Python; software development with C,C++,Python,Lua,Perl,SQL;linux system administration; embedded software development
 
-### Research interests
-* MRI image processing, population studies, non-linear registration
+* Academic CV: [http://www.ilmarin.info/cv/](http://www.ilmarin.info/cv/)
+
 
 ### Work Experience
-* Jul 2008 - present McConnell Brain Imaging Centre Montreal Neurological Institute, McGill University (Canada) Research Associate, MRI image processing research
-* Aug 2017 - present NeuroRx Research Canada. MRI Acquisition & Analysis Expert
-* Nov 2009 - Jul 2017  NeuroRx Research Canada. Member of software development team.
-* Jul 2005 - 2008 McConnell Brain Imaging Centre Montreal Neurological Institute, McGill University (Canada) Postdoc, MRI image processing research in NIHPD project.
+* Jul 2008 - present Research Associate McConnell Brain Imaging Centre Montreal Neurological Institute, McGill University, Montreal Canada
+   * assisting in supervising MSc and PHd students in biomedical engeneering; 
+development of image processing techniques for MRI scans; maintenance of MRI image processing toolkit ( https://github.com/BIC-MNI/ )
+* Nov 2009 - present MRI Acquisition & Analysis Expert, NeuroRx Research, Montreal Canada. 
+   * integration of MRI image processing tools for data analysis of clinical trials for pharmaceutical industry
+* Sep 2013 - present Owner, Director, CEO VSFC consultants Inc. , Montreal, Canada
+   *  
+* Jul 2005 - 2008 McConnell Brain Imaging Centre Montreal Neurological Institute, McGill University (Canada) Postdoc
+   * development of image processing techniques for MRI scans
 * Nov 2003 - Jun 2005 Innovative Scientific Solutions Inc (USA) Scientist, optical measurements, PSP software developer Responsibilities: research in new data processing algorithms development of data processing software for optical measurements research of new optical measurement techniques
 * 2000 - Oct 2003 Edgewood Technologies Corporation (USA) Software Architect, Algorithm Developer, Researcher Visual C++, OpenGL, Corba, Python, SQL  scientific image processing software for PSP, TSP and PIV applications
 * 2001 - 2002 E-corner Internet Cafe (UK) Intranet Development Consultant Linux, Exim, NFS, Samba Intranet development support, security advisor, technical support
@@ -33,17 +31,14 @@ permalink: /cv/
 * 1994 - 1999 Central Aero-hydrodynamic Institute - TsAGI (Russia) C++ Software developer, Visual C++ , Delphi , OpenGL scientific image processing /data acquisition software
 * 1993 - 1994 Tver Universal Bank (Russia) C++,Oracle Programmer user interface for banking software in DOS environment
 
-### Awards received
-* Second Place on All-Russian Contest on Physics, 1994
-* Stirling University Beginners fencing competition, Epee 1st, 2001
-* 5th Kyu Ki-Aikido, 2005
-* 5th Kyu Aikido-Aikikai, 2006
-* 4th Kyu Aikido-Aikikai, 2007
-* 3rd Kyu Aikido-Aikikai, 2011
-* 2nd Kyu Aikido-Aikikai, 2017
+### Education
+* 1999-2003 Heriot Watt University (UK) Ph.D. , Digital Image Processing & Optical Measurements
+* 1998-1999 Moscow Institute of Physics and Technology (Russia) M.Sc. , Applied Physics & Mathematics
+* 1994-1998 Moscow Institute of Physics and Technology (Russia) B.Sc. , Applied Physics & Mathematics
+
 
 ### Languages
-* Russian (native), English (fluent), French (a little)
+* Russian (native), English (fluent), French (intermediate speaking, reading)
 
 ### Select Publications
 * V Fonov, AC Evans, K Botteron, CR Almli, RC McKinstry, DL Collins "Unbiased average age-appropriate atlases for pediatric studies" 
