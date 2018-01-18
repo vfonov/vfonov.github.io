@@ -23,7 +23,7 @@ development of image processing techniques for MRI scans; maintenance of MRI ima
     * research in new data processing algorithms development of data processing software for optical measurements research of new optical measurement techniques
 * 2000 - Oct 2003 **R&D Engeneer** Edgewood Technologies Corporation (USA) 
     * algorithm researcher and development for PSP, TSP and PIV applications in aerodynamic experiments
-* 2001 - 2002 **System Administrator E-corner Internet Cafe, Edinburgh UK 
+* 2001 - 2002 **System Administrator** E-corner Internet Cafe, Edinburgh UK 
     * linux system administration,technical support
 * 1994 - 1999 **Software Developer** Central Aero-hydrodynamic Institute - TsAGI, Moscow Reg. Russia 
     * scientific image processing/data acquisition software development
