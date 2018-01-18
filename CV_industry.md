@@ -3,14 +3,11 @@ layout: page
 title: CV
 permalink: /cv_ind/
 ---
-# Vladimir S. FONOV PhD
-
 ## Summary
 Researcher and software developer with 15 years of experience in image processing and medical image analysis.
 
 ## Skills
 Scientific writing; data analysis using **R,Python**; machine learning with **scikit-learn, torch**; software development with **C,C++,Python,Lua,Perl,SQL**;linux system administration; embedded software development; linux kernel driver development
-
 
 ## Work Experience
 * Jul 2008 - present **Research Associate** McConnell Brain Imaging Centre Montreal Neurological Institute, McGill University, Montreal Canada
@@ -35,9 +32,9 @@ development of image processing techniques for MRI scans; maintenance of MRI ima
 
 ## Education
 * Academic CV: [http://www.ilmarin.info/cv/](http://www.ilmarin.info/cv/)
-* 1999-2003 Heriot Watt University (UK) Ph.D. , Digital Image Processing & Optical Measurements
-* 1998-1999 Moscow Institute of Physics and Technology (Russia) M.Sc. , Applied Physics & Mathematics
-* 1994-1998 Moscow Institute of Physics and Technology (Russia) B.Sc. , Applied Physics & Mathematics
+* 1999-2003 Heriot Watt University (UK) **Ph.D.** , Digital Image Processing & Optical Measurements
+* 1998-1999 Moscow Institute of Physics and Technology (Russia) **M.Sc.** , Applied Physics & Mathematics
+* 1994-1998 Moscow Institute of Physics and Technology (Russia) **B.Sc.** , Applied Physics & Mathematics
 
 ## Languages
 * Russian (native), English (fluent), French (intermediate speaking, reading)
