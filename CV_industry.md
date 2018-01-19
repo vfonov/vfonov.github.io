@@ -4,7 +4,7 @@ title: CV
 permalink: /cv_ind/
 ---
 ### Summary
-Researcher and software developer with more then 15 years of experience in image processing and medical image analysis.
+Researcher and software developer with more than 15 years of experience in image processing and medical image analysis.
 
 ### Skills
 Scientific writing; data analysis using **R, Python**; machine learning with **scikit-learn, torch**; software development with **C, C++, Python, Lua, Perl, SQL**; linux system administration; embedded software development; linux kernel driver development
@@ -24,15 +24,15 @@ Scientific writing; data analysis using **R, Python**; machine learning with **s
     * algorithm researcher and development for PSP, TSP and PIV applications in aerodynamic experiments
 * *2001 - 2002* **System Administrator**, E-corner Internet Cafe, Edinburgh UK 
     * linux system administration, technical support
-* 1994 - 1999 **Software Developer**, Central Aero-hydrodynamic Institute - TsAGI, Moscow Reg. Russia 
+* *1994 - 1999* **Software Developer**, Central Aero-hydrodynamic Institute - TsAGI, Moscow Reg. Russia 
     * scientific image processing/data acquisition software development
-* 1993 - 1994 **Software Developer**, Tver Universal Bank, Moscow Russia 
+* *1993 - 1994* **Software Developer**, Tver Universal Bank, Moscow Russia 
     * user interface developement for banking software in DOS environment
 
 ### Education
-* 1999-2003 Heriot Watt University (UK) **Ph.D.**, Digital Image Processing & Optical Measurements
-* 1998-1999 Moscow Institute of Physics and Technology (Russia) **M.Sc.**, Applied Physics & Mathematics
-* 1994-1998 Moscow Institute of Physics and Technology (Russia) **B.Sc.**, Applied Physics & Mathematics
+* *1999-2003* Heriot Watt University (UK) **Ph.D.**, Digital Image Processing & Optical Measurements
+* *1998-1999* Moscow Institute of Physics and Technology (Russia) **M.Sc.**, Applied Physics & Mathematics
+* *1994-1998* Moscow Institute of Physics and Technology (Russia) **B.Sc.**, Applied Physics & Mathematics
 * Academic CV: [http://www.ilmarin.info/cv/](http://www.ilmarin.info/cv/)
 
 ### Languages
@@ -53,4 +53,9 @@ Scientific writing; data analysis using **R, Python**; machine learning with **s
   * low-cost USB JTAG dongle based on 8 bit AVR cpu: <https://github.com/vfonov/opendous-jtag>
 
 #### Hobbies
-Aikido (2nd kyu aikikai), motorcycle, cross-country skiing
+Aikido, motorcycle, cross-country skiing
+
+#### Awards
+* Second Place on All-Russian Contest on Physics, 1994
+* Stirling University Beginners fencing competition, Epee 1st, 2001
+* 2nd Kyu Aikido-Aikikai, 2017
