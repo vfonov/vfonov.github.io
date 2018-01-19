@@ -51,3 +51,6 @@ Scientific writing; data analysis using **R, Python**; machine learning with **s
   * uIP-based web server on 8bit AVR cpu: <https://github.com/vfonov/uhttpd-avr>
   * lwiIP-based web server on 8bit AVR cpu: <https://github.com/vfonov/lwip-avr>
   * low-cost USB JTAG dongle based on 8 bit AVR cpu: <https://github.com/vfonov/opendous-jtag>
+
+#### Hobbies
+Aikido (2nd kyu aikikai), motorcycle, cross-country skiing
