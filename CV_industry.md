@@ -11,19 +11,19 @@ Expert knowledge in image analysis methods for MRI and computer vision. Develope
 data analysis using **R, Python**; machine learning with **scikit-learn**;deep learning with  **torch**; software development with **C, C++, Python, Lua , Perl, Ruby**
 
 ### Work Experience
-* *Jul 2005 - present* Research Associate, **McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University**, Montreal Canada
+* *2005 - present* Research Associate, **McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University**, Montreal Canada
    * developed methods and software for medical imaging analysis of large population studies
    * participated in open competitions for methods of Alzheimer's disease diagnosis and MRI segmentation
    * maintained open source image processing toolkit
    * supervised research work of MSc and PHd students in bio-medical engineering
    * co-authored more then 100 academic paper, current citation index [(scopus) h=23]((https://www.scopus.com/authid/detail.uri?authorId=57188953412))
-* *Nov 2009 - present* MRI Acquisition & Analysis Expert, **NeuroRx Research**, Montreal Canada
+* *2009 - present* MRI Acquisition & Analysis Expert, **NeuroRx Research**, Montreal Canada
    * integrated MRI image processing tools for data analysis in clinical trials for pharmaceutical industry
    * consulted for application of image processing techniques in clinical trials for pharmaceutical industry
-* *Nov 2003 - Jun 2005* Research Scientist, **Innovative Scientific Solutions Inc**, Dayton OH USA
+* *2003 - 2005* Research Scientist, **Innovative Scientific Solutions Inc**, Dayton OH USA
    * developed image processing methods and software tools for optical measurements in aerodynamic experiments
    * developed data acquisition systems (software and hardware)
-* *2000 - Oct 2003* R&D Engineer, **Edgewood Technologies Corp**, USA
+* *2000 - 2003* R&D Engineer, **Edgewood Technologies Corp**, USA
     * developed software for optical measurements in aerodynamic experiments
 
 ### Education
