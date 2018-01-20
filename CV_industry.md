@@ -5,7 +5,7 @@ permalink: /cv_ind/
 ---
 ### Summary
 Researcher and software developer with more than 15 years of experience in researching and implementing novel methods for image processing and medical image analysis. With strong background in applied mathematics and computer science. 
-Expert knowledge in image analysis methods for MRI and computer vision. Developed methods for diagnostics of neurological diseases and tracking normal development of the human brain. Consulting for adaptation of develed methods for use in clinical trials for drug development. Co-authered more then 100 academic papers.
+Expert knowledge in image analysis methods for MRI and computer vision. Developed methods for diagnostics of neurological diseases and tracking normal development of the human brain.Co-authered more then 100 academic papers. Consulted for application of image processing methods in clinical trials for drug development.
 
 ### Skills
 data analysis using **R, Python**; machine learning with **scikit-learn**;deep learning with  **torch**; software development with **C, C++, Python, Lua , Perl, Ruby**
@@ -13,39 +13,37 @@ data analysis using **R, Python**; machine learning with **scikit-learn**;deep l
 ### Work Experience
 * *Jul 2005 - present* Research Associate, **McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University**, Montreal Canada
    * developed methods and software for medical imaging analysis of large population studies
-   * participated in open competitions for methods of Alzheimer's disesas diagnosis and MRI segmentation
+   * participated in open competitions for methods of Alzheimer's disease diagnosis and MRI segmentation
    * maintained open source image processing toolkit
-   * supervised research work of MSc and PHd students in biomedical engineering
+   * supervised research work of MSc and PHd students in bio-medical engineering
    * co-authored more then 100 academic paper, current citation index (scopus) h=23
 * *Nov 2009 - present* MRI Acquisition & Analysis Expert, **NeuroRx Research**, Montreal Canada
    * integrated MRI image processing tools for data analysis in clinical trials for pharmaceutical industry
-   * consulted for image processing techniques
+   * consulted for application of image processing techniques in clinical trials for pharmaceutical industry
 * *Nov 2003 - Jun 2005* Research Scientist, **Innovative Scientific Solutions Inc**, Dayton OH USA
    * developed image processing methods and software tools for optical measurements in aerodynamic experiments
-   * participated in design and development of data acqusition hardware
-   * co-authored 
+   * developed data acquisition systems (software and hardware)
 * *2000 - Oct 2003* R&D Engineer, **Edgewood Technologies Corp**, USA
     * developed software for optical measurements in aerodynamic experiments
 
 ### Education
-* *1999-2003* Heriot Watt University (UK) **Ph.D.** in Digital Image Processing
+* *1999-2003* Heriot-Watt University (UK) **Ph.D.** in Digital Image Processing
 * *1994-1999* Moscow Institute of Physics and Technology (Russia) **M.Sc.** in Applied Physics & Mathematics
 * Academic CV: [http://www.ilmarin.info/cv/](http://www.ilmarin.info/cv/)
 
 ### Languages
 * Russian (native), English (fluent), French (intermediate speaking, reading)
 
-### Open Source Software contributions
+### Open Source Software
 * Github profile: [vfonov](https://github.com/vfonov/)
 * MRI image processing toolkit: <https://github.com/BIC-MNI/>
 * Contributed to the following open source software projects:
-  * Insight Toolkit: <http://www.itk.org/> 
-  * ANTs: <http://stnava.github.io/ANTs/>
-  * Torch7: <https://github.com/torch/torch7>
+  * Insight Toolkit: <http://www.itk.org/> support for MINC file format
+  * ANTs: <http://stnava.github.io/ANTs/> support for MINC file format
+  * Torch7: <https://github.com/torch/torch7> additional methods for image module, bug fix for ARM architecture
 * Embedded software:
   * enhancements in linux kernel module for camera module in mini2440 board: <https://github.com/vfonov/s3c2440camera>
   * port of mjpg-streamer optimized for mini2440 board: <https://github.com/vfonov/mjpg-streamer-mini2440>
   * uIP-based web server on 8bit AVR cpu: <https://github.com/vfonov/uhttpd-avr>
   * lwiIP-based web server on 8bit AVR cpu: <https://github.com/vfonov/lwip-avr>
   * low-cost USB JTAG dongle based on 8 bit AVR cpu: <https://github.com/vfonov/opendous-jtag>
-  
