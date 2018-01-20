@@ -4,35 +4,32 @@ title: CV
 permalink: /cv_ind/
 ---
 ### Summary
-Researcher and software developer with more than 15 years of experience in image processing and medical image analysis.
+Researcher and software developer with more than 15 years of experience in researching and implementing novel methods for image processing and medical image analysis. With strong background in applied mathematics and computer science. 
+Expert knowledge in image analysis methods for MRI and computer vision. Developed methods for diagnostics of neurological diseases and tracking normal development of the human brain. Consulting for adaptation of develed methods for use in clinical trials for drug development. Co-authered more then 100 academic papers.
 
 ### Skills
-Scientific writing; data analysis using **R, Python**; machine learning with **scikit-learn, torch**; software development with **C, C++, Python, Lua, Perl, SQL**; linux system administration; embedded software development; linux kernel driver development
+data analysis using **R, Python**; machine learning with **scikit-learn**;deep learning with  **torch**; software development with **C, C++, Python, Lua , Perl, Ruby**
 
 ### Work Experience
-* *Jul 2008 - present* **Research Associate**, McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University, Montreal Canada
-   * development of image processing methods and software for medical imaging data analysis; maintenance of MRI image processing toolkit <https://github.com/BIC-MNI/>; assistance in supervising MSc and PHd students in biomedical engineering
-* *Nov 2009 - present* **MRI Acquisition & Analysis Expert**, NeuroRx Research, Montreal Canada
-   * integration of MRI image processing tools for data analysis of clinical trials for pharmaceutical industry
-* *Sep 2013 - present* **Owner, Director, CEO** VSFC consultants Inc., Montreal Canada
-   * consulting for MRI data analysis, linux system administration services
-* *Jul 2005 - Jul 2008* **Postdoc**, McConnell Brain Imaging Centre Montreal Neurological Institute, McGill University, Montreal Canada
-   * development of image processing methods and software for MRI scan analysis
-* *Nov 2003 - Jun 2005* **Scientist**, Innovative Scientific Solutions Inc, Dayton OH USA
-   * research and development of image analysis algorithms for optical measurements in aerodynamic experiments; development of data acquisition systems 
-* *2000 - Oct 2003* **R&D Engineer**, Edgewood Technologies Corporation, USA
-    * algorithm researcher and development for PSP, TSP and PIV applications in aerodynamic experiments
-* *2001 - 2002* **System Administrator**, E-corner Internet Cafe, Edinburgh UK 
-    * linux system administration, technical support
-* *1994 - 1999* **Software Developer**, Central Aero-hydrodynamic Institute - TsAGI, Moscow Reg. Russia 
-    * scientific image processing/data acquisition software development
-* *1993 - 1994* **Software Developer**, Tver Universal Bank, Moscow Russia 
-    * user interface developement for banking software in DOS environment
+* *Jul 2005 - present* Research Associate, **McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University**, Montreal Canada
+   * developed methods and software for medical imaging analysis of large population studies
+   * participated in open competitions for methods of Alzheimer's disesas diagnosis and MRI segmentation
+   * maintained open source image processing toolkit
+   * supervised research work of MSc and PHd students in biomedical engineering
+   * co-authored more then 100 academic paper, current citation index (scopus) h=23
+* *Nov 2009 - present* MRI Acquisition & Analysis Expert, **NeuroRx Research**, Montreal Canada
+   * integrated MRI image processing tools for data analysis in clinical trials for pharmaceutical industry
+   * consulted for image processing techniques
+* *Nov 2003 - Jun 2005* Research Scientist, **Innovative Scientific Solutions Inc**, Dayton OH USA
+   * developed image processing methods and software tools for optical measurements in aerodynamic experiments
+   * participated in design and development of data acqusition hardware
+   * co-authored 
+* *2000 - Oct 2003* R&D Engineer, **Edgewood Technologies Corp**, USA
+    * developed software for optical measurements in aerodynamic experiments
 
 ### Education
-* *1999-2003* Heriot Watt University (UK) **Ph.D.**, Digital Image Processing & Optical Measurements
-* *1998-1999* Moscow Institute of Physics and Technology (Russia) **M.Sc.**, Applied Physics & Mathematics
-* *1994-1998* Moscow Institute of Physics and Technology (Russia) **B.Sc.**, Applied Physics & Mathematics
+* *1999-2003* Heriot Watt University (UK) **Ph.D.** in Digital Image Processing
+* *1994-1999* Moscow Institute of Physics and Technology (Russia) **M.Sc.** in Applied Physics & Mathematics
 * Academic CV: [http://www.ilmarin.info/cv/](http://www.ilmarin.info/cv/)
 
 ### Languages
@@ -40,9 +37,9 @@ Scientific writing; data analysis using **R, Python**; machine learning with **s
 
 ### Open Source Software contributions
 * Github profile: [vfonov](https://github.com/vfonov/)
-* MNI minc-toolkit maintenance: <https://github.com/BIC-MNI/>
-* Contributions to other open source software projects:
-  * Insight Toolkit: <http://www.itk.org/>
+* MRI image processing toolkit: <https://github.com/BIC-MNI/>
+* Contributed to the following open source software projects:
+  * Insight Toolkit: <http://www.itk.org/> 
   * ANTs: <http://stnava.github.io/ANTs/>
   * Torch7: <https://github.com/torch/torch7>
 * Embedded software:
@@ -51,11 +48,4 @@ Scientific writing; data analysis using **R, Python**; machine learning with **s
   * uIP-based web server on 8bit AVR cpu: <https://github.com/vfonov/uhttpd-avr>
   * lwiIP-based web server on 8bit AVR cpu: <https://github.com/vfonov/lwip-avr>
   * low-cost USB JTAG dongle based on 8 bit AVR cpu: <https://github.com/vfonov/opendous-jtag>
-
-#### Hobbies
-Aikido, motorcycle, cross-country skiing
-
-#### Awards
-* Second Place on All-Russian Contest on Physics, 1994
-* Stirling University Beginners fencing competition, Epee 1st, 2001
-* 2nd Kyu Aikido-Aikikai, 2017
+  

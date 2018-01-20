@@ -3,9 +3,6 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-# Vladimir S. FONOV PhD
-
-* Born: June 8, 1977
 * E-mail: v.s.fonov@ilmarin.info
 * Publications (online references): 
    * [Google Scholar: http://scholar.google.ca/citations?user=4YCK0vQAAAAJ](http://scholar.google.ca/citations?user=4YCK0vQAAAAJ)
@@ -16,7 +13,7 @@ permalink: /cv/
 ### Education
 * 1998 Moscow Institute of Physics and Technology (Russia) B.Sc. , Applied Physics & Mathematics
 * 1999 Moscow Institute of Physics and Technology (Russia) M.Sc. , Applied Physics & Mathematics
-* 2003 Heriot Watt University (UK) Ph.D. , Digital Image Processing & Optical Measurements
+* 2003 Heriot Watt University (UK) Ph.D., Digital Image Processing & Optical Measurements
 
 ### Research interests
 * MRI image processing, population studies, non-linear registration
