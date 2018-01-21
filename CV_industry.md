@@ -4,8 +4,8 @@ title: CV
 permalink: /cv_ind/
 ---
 ### Summary
-Researcher and software developer with more than 15 years of experience in researching and implementing novel methods for image processing and medical image analysis. With strong background in applied mathematics and computer science. 
-Expert knowledge in image analysis methods for MRI and computer vision. Developed methods for diagnostics of neurological diseases and tracking normal development of the human brain.Co-authered more then 100 academic papers. Consulted for application of image processing methods in clinical trials for drug development.
+Researcher and software developer with more than 15 years of experience in researching and implementing novel methods for image processing and medical image analysis. With the strong background in applied mathematics and computer science. 
+Expert knowledge in image analysis methods for MRI and computer vision. Developed methods for diagnostics of neurological diseases and tracking the normal development of the human brain. Co-authored more than 100 academic papers. Consulted for application of image processing methods in clinical trials for drug development.
 
 ### Skills
 data analysis using **R, Python**; machine learning with **scikit-learn**;deep learning with  **torch**; software development with **C, C++, Python, Lua , Perl, Ruby**
@@ -15,8 +15,8 @@ data analysis using **R, Python**; machine learning with **scikit-learn**;deep l
    * developed methods and software for medical imaging analysis of large population studies
    * participated in open competitions for methods of Alzheimer's disease diagnosis and MRI segmentation
    * maintained open source image processing toolkit
-   * supervised research work of MSc and PHd students in bio-medical engineering
-   * co-authored more then 100 academic paper, current citation index [(scopus) h=23](https://www.scopus.com/authid/detail.uri?authorId=57188953412)
+   * supervised research work of MSc and PHd students in biomedical engineering
+   * co-authored more then 100 academic paper, current citation index [(Scopus) h=23](https://www.scopus.com/authid/detail.uri?authorId=57188953412)
 * *2009 - present* MRI Acquisition & Analysis Expert, **NeuroRx Research**, Montreal Canada
    * integrated MRI image processing tools for data analysis in clinical trials for pharmaceutical industry
    * consulted for application of image processing techniques in clinical trials for pharmaceutical industry
