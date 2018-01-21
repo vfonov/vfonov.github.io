@@ -16,7 +16,7 @@ data analysis using **R, Python**; machine learning with **scikit-learn**;deep l
    * participated in open competitions for methods of Alzheimer's disease diagnosis and MRI segmentation
    * maintained open source image processing toolkit
    * supervised research work of MSc and PHd students in bio-medical engineering
-   * co-authored more then 100 academic paper, current citation index [(scopus) h=23]((https://www.scopus.com/authid/detail.uri?authorId=57188953412))
+   * co-authored more then 100 academic paper, current citation index [(scopus) h=23](https://www.scopus.com/authid/detail.uri?authorId=57188953412)
 * *2009 - present* MRI Acquisition & Analysis Expert, **NeuroRx Research**, Montreal Canada
    * integrated MRI image processing tools for data analysis in clinical trials for pharmaceutical industry
    * consulted for application of image processing techniques in clinical trials for pharmaceutical industry
