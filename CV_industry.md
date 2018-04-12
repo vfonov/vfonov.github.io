@@ -5,7 +5,7 @@ permalink: /cv_ind/
 ---
 ### Summary
 Researcher and software developer with more than 15 years of experience in researching and implementing novel methods for image processing and medical image analysis. With the strong background in applied mathematics and computer science. 
-Expert knowledge in image analysis methods for MRI and computer vision. Developed methods for diagnostics of neurological diseases and tracking the normal development of the human brain. Co-authored more than 100 academic papers. Consulted for application of image processing methods in clinical trials for drug development.
+Expert knowledge in image analysis methods for MRI and computer vision. Developed methods for diagnostics of neurological diseases and tracking the normal development of the human brain. Co-authored more than 100 academic papers. Consulted for data processing methods in clinical trials for drug development.
 
 ### Skills
 data analysis using **R, Python**; machine learning with **scikit-learn**;deep learning with  **torch**; software development with **C, C++, Python, Lua , Perl, Ruby**
@@ -36,11 +36,11 @@ data analysis using **R, Python**; machine learning with **scikit-learn**;deep l
 
 ### Open Source Software
 * Github profile: [vfonov](https://github.com/vfonov/)
-* MRI image processing toolkit: <https://github.com/BIC-MNI/>
+* Medical image processing toolkit maintainer: <https://github.com/BIC-MNI/>
 * Contributed to the following open source software projects:
-  * Insight Toolkit: <http://www.itk.org/> support for MINC file format
-  * ANTs: <http://stnava.github.io/ANTs/> support for MINC file format
-  * Torch7: <https://github.com/torch/torch7> additional methods for image module, bug fix for ARM architecture
+  * Insight Toolkit: <http://www.itk.org/>
+  * ANTs: <http://stnava.github.io/ANTs/>
+  * Torch7: <https://github.com/torch/torch7>
 * Embedded software:
   * enhancements in linux kernel module for camera module in mini2440 board: <https://github.com/vfonov/s3c2440camera>
   * port of mjpg-streamer optimized for mini2440 board: <https://github.com/vfonov/mjpg-streamer-mini2440>
