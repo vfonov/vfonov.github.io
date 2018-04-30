@@ -4,11 +4,11 @@ title: CV
 permalink: /cv_ind/
 ---
 ### Summary
-Researcher and software developer with more than 15 years of experience in researching and implementing novel methods for image processing and medical image analysis. With the strong background in applied mathematics and computer science. 
+Researcher and software developer with more than 15 years of experience in researching and implementing novel methods for image processing and medical image analysis. With the strong background in applied mathematics and computer science.
 Expert knowledge in image analysis methods for MRI and computer vision. Developed methods for diagnostics of neurological diseases and tracking the normal development of the human brain. Co-authored more than 100 academic papers. Consulted for data processing methods in clinical trials for drug development.
 
 ### Skills
-data analysis using **R, Python**; machine learning with **scikit-learn**;deep learning with  **torch**; software development with **C, C++, Python, Lua , Perl, Ruby**
+data analysis using **R, Python**; machine learning with **scikit-learn**;deep learning with  **pytorch,torch**; software development with **C, C++, Python, Lua , Perl, Ruby**
 
 ### Work Experience
 * *2005 - present* Research Associate, **McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University**, Montreal Canada
