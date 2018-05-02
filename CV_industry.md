@@ -32,7 +32,7 @@ data analysis using **R, Python**; machine learning with **scikit-learn**;deep l
 * Academic CV: [http://www.ilmarin.info/cv/](http://www.ilmarin.info/cv/)
 
 ### Languages
-* Russian (native), English (fluent), French (intermediate speaking, reading)
+* Russian (native), English (fluent), French (basic speaking, reading)
 
 ### Open Source Software
 * Github profile: [vfonov](https://github.com/vfonov/)
