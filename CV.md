@@ -1,6 +1,6 @@
 ---
-layout: page
-title: CV
+layout: cv
+title: Vladimir S. FONOV Ph.D.
 permalink: /cv/
 ---
 * E-mail: v.s.fonov@ilmarin.info
@@ -9,7 +9,6 @@ permalink: /cv/
    * [Scopus Author ID: 57188953412](https://www.scopus.com/authid/detail.uri?authorId=57188953412)
    * [orcid.org/0000-0003-3402-7749](http://orcid.org/0000-0003-3402-7749)
  
-
 ### Education
 * 1998 Moscow Institute of Physics and Technology (Russia) B.Sc. , Applied Physics & Mathematics
 * 1999 Moscow Institute of Physics and Technology (Russia) M.Sc. , Applied Physics & Mathematics
