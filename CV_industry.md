@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: CV
+title: Vladimir S. FONOV Ph.D.
 permalink: /cv_ind/
 ---
 Researcher and software developer. Background in applied mathematics and computer science. More than 18 years of experience, including 13 years focused in medical image processing and analysis.
