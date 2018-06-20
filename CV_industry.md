@@ -10,24 +10,24 @@ Expert knowledge in image analysis methods for MRI and computer vision. Develope
 data analysis using **R, Python**; machine learning with **scikit-learn**; deep learning with **pytorch, torch**; software development with **C, C++, Python, Lua , Perl, Ruby**
 
 ### Work Experience
-* *2005 - present* Research Associate (full time), **McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University**, Montreal Canada
+* *2005 - present:* Research Associate (full time), **McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University**, Montreal Canada
    * developed methods and software for medical imaging analysis of large population studies
    * participated in open competitions for methods of Alzheimer's disease diagnosis and MRI segmentation
    * maintained open source image processing toolkit (see list below)
    * supervised research work of MSc and PhD students in biomedical engineering
-   * co-authored more then 100 academic paper, [Scopus citation index h=23](https://www.scopus.com/authid/detail.uri?authorId=57188953412)
-* *2009 - present* MRI Acquisition & Analysis Consultant, **NeuroRx Research**, Montreal Canada
+   * co-authored more than 100 academic papers, [Scopus citation index h=23](https://www.scopus.com/authid/detail.uri?authorId=57188953412)
+* *2009 - present:* MRI Acquisition & Analysis Consultant, **NeuroRx Research**, Montreal Canada
    * integrated MRI image processing tools for data analysis in clinical trials for pharmaceutical industry
-* *2003 - 2005* Research Scientist, **Innovative Scientific Solutions Inc**, Dayton OH USA
+* *2003 - 2005:* Research Scientist, **Innovative Scientific Solutions Inc**, Dayton OH USA
    * developed image processing methods and software tools for optical measurements in aerodynamic experiments
    * developed data acquisition systems (software and hardware)
-* *2000 - 2003* R&D Engineer, **Edgewood Technologies Corp**, USA
+* *2000 - 2003:* R&D Engineer, **Edgewood Technologies Corp**, USA
     * developed software for optical measurements in aerodynamic experiments
 
 ### Education
-* *1999-2003* Heriot-Watt University (UK) **Ph.D.** in Digital Image Processing
-* *1994-1999* Moscow Institute of Physics and Technology (Russia) **M.Sc.** in Applied Physics & Mathematics
-* Academic CV: [http://www.ilmarin.info/cv/](http://www.ilmarin.info/cv/)
+* *1999-2003:* Heriot-Watt University (UK) **Ph.D.** in Digital Image Processing
+* *1994-1999:* Moscow Institute of Physics and Technology (Russia) **M.Sc.** in Applied Physics & Mathematics
+* *Academic CV:* [http://www.ilmarin.info/cv/](http://www.ilmarin.info/cv/)
 
 ### Languages
 * Russian (native), English (fluent), French (basic speaking, reading)
