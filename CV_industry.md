@@ -11,16 +11,17 @@ Expert knowledge in image analysis methods for MRI and computer vision. Develope
 
 ### Work Experience
 * *2005 - present:* Research Associate (full time), **McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University**, Montreal Canada
-   * developed methods and software for medical imaging analysis of large population studies, recent methods based on *deep learning*.
+   * developed methods and software for medical imaging analysis of large population studies, including methods based on *deep learning*
    * participated in open competitions for methods of Alzheimer's disease diagnosis and MRI segmentation
    * maintained open source image processing toolkit (see list below)
    * supervised research work of MSc and PhD students in biomedical engineering
    * co-authored more than 100 academic papers, [Scopus citation index h=23](https://www.scopus.com/authid/detail.uri?authorId=57188953412)
 * *2009 - present:* MRI Acquisition & Analysis Consultant, **NeuroRx Research**, Montreal Canada
    * integrated MRI image processing tools for data analysis in clinical trials for pharmaceutical industry
+   * developed novel methods for disease progression quantification in clinical trials
 * *2003 - 2005:* Research Scientist, **Innovative Scientific Solutions Inc**, Dayton OH USA
    * developed image processing methods and software tools for optical measurements in aerodynamic experiments
-   * developed data acquisition systems (software and hardware)
+   * developed data acquisition systems (both software and hardware)
 * *2000 - 2003:* R&D Engineer, **Edgewood Technologies Corp**, USA
     * developed software for optical measurements in aerodynamic experiments
 
