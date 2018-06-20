@@ -7,11 +7,11 @@ Researcher and software developer, seeking a research job to solve complex probl
 Expert knowledge in image analysis methods for MRI and computer vision. Developed methods for diagnostics of neurological diseases and tracking the normal development of the human brain. Co-authored more than 100 academic papers. Consulted for data processing methods in clinical trials for drug development.
 
 ### Skills
-data analysis using **R, Python**; machine learning with **scikit-learn**; deep learning with **pytorch, torch**; software development with **C, C++, Python, Lua , Perl, Ruby**
+*statistical data analysis* using **R, Python**; *machine learning* with **scikit-learn**; *deep learning* with **pytorch, torch**; *software development* with **C, C++, Python, Lua , Perl, Ruby**
 
 ### Work Experience
 * *2005 - present:* Research Associate (full time), **McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University**, Montreal Canada
-   * developed methods and software for medical imaging analysis of large population studies
+   * developed methods and software for medical imaging analysis of large population studies, recent methods based on **deep learning**.
    * participated in open competitions for methods of Alzheimer's disease diagnosis and MRI segmentation
    * maintained open source image processing toolkit (see list below)
    * supervised research work of MSc and PhD students in biomedical engineering
