@@ -11,7 +11,7 @@ Expert knowledge in image analysis methods for MRI and computer vision. Develope
 
 ### Work Experience
 * *2005 - present:* Research Associate (full time), **McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University**, Montreal Canada
-   * developed methods and software for medical imaging analysis of large population studies, recent methods based on **deep learning**.
+   * developed methods and software for medical imaging analysis of large population studies, recent methods based on *deep learning*.
    * participated in open competitions for methods of Alzheimer's disease diagnosis and MRI segmentation
    * maintained open source image processing toolkit (see list below)
    * supervised research work of MSc and PhD students in biomedical engineering
