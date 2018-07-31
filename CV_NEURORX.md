@@ -6,7 +6,7 @@ permalink: /cv_neurorx/
 Researcher and software developer. Background in applied mathematics and computer science. Expert knowledge in image analysis methods for MRI and computer vision. Developed methods for diagnostics of neurological diseases and tracking the normal development of the human brain. Co-authored more than 100 academic papers.
 
 ### Skills
-*medical image analysis* using **MINC, InsightToolkit**;*statistical data analysis* using **R, Python**; *machine learning* with **scikit-learn**; *deep learning* with **pytorch, torch**; *software development* with **C, C++, Python, Lua , Perl, Ruby**
+*medical image analysis* using **MINC, InsightToolkit**; *statistical data analysis* using **R, Python**; *machine learning* with **scikit-learn**; *deep learning* with **pytorch**; *software development* with **C, C++, Python, Perl**
 
 ### Work Experience
 * *2009 - present:* Member of Image Analysis Software Group, **NeuroRx Research**, Montreal Canada
