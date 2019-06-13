@@ -7,16 +7,18 @@ Researcher and software developer. Background in applied mathematics and compute
 Expert knowledge in image analysis methods for MRI and computer vision. Developed methods for diagnostics of neurological diseases and tracking the normal development of the human brain. Co-authored more than 100 academic papers. Consulted for data processing methods in clinical trials for drug development.
 
 ### Skills
-*statistical data analysis* using **R, Python**; *machine learning* with **scikit-learn**; *deep learning* with **pytorch, torch**; *software development* with **C, C++, Python, Lua , Perl, Ruby**
+*statistical data analysis* using **R, Python**; *machine learning* with **scikit-learn**; *deep learning* with **pytorch**; *software development* with **C, C++, Python, Lua , Perl**
 
-### Work Experience
-* *2005 - present:* Research Associate (full time), **McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University**, Montreal Canada
+### Work experience
+* *2019 - present:* Research scientist, advanced software developer, **Rogue Research**, Montreal Canada
+   * develop methods and software for medical image analysis
+* *2005 - 2019:* Research associate, **McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University**, Montreal Canada
    * developed methods and software for medical imaging analysis of large population studies, including methods based on *deep learning*
    * participated in open competitions for methods of Alzheimer's disease diagnosis and MRI segmentation
    * maintained open source image processing toolkit (see list below)
    * supervised research work of MSc and PhD students in biomedical engineering
-   * co-authored more than 100 academic papers, [Scopus citation index h=23](https://www.scopus.com/authid/detail.uri?authorId=57188953412)
-* *2009 - present:* MRI Acquisition & Analysis Consultant, **NeuroRx Research**, Montreal Canada
+   * co-authored more than 100 academic papers, [Scopus citation index h=28](https://www.scopus.com/authid/detail.uri?authorId=57188953412)
+* *2009 - 2019:* MRI Acquisition & Analysis Consultant, **NeuroRx Research**, Montreal Canada
    * integrated MRI image processing tools for data analysis in clinical trials for pharmaceutical industry
    * developed novel methods for disease progression quantification in clinical trials
 * *2003 - 2005:* Research Scientist, **Innovative Scientific Solutions Inc**, Dayton OH USA
@@ -30,10 +32,13 @@ Expert knowledge in image analysis methods for MRI and computer vision. Develope
 * *1994-1999:* Moscow Institute of Physics and Technology (Russia) **M.Sc.** in Applied Physics & Mathematics
 * *Academic CV:* [http://www.ilmarin.info/cv/](http://www.ilmarin.info/cv/)
 
+### Publications
+* [orcid.org/0000-0003-3402-7749](http://orcid.org/0000-0003-3402-7749)
+
 ### Languages
 * Russian (native), English (fluent), French (basic speaking, reading)
 
-### Open Source Software
+### Open source software contributions
 * Github profile: [vfonov](https://github.com/vfonov/)
 * Medical image processing toolkit maintainer: <https://github.com/BIC-MNI/>
 * Contributed to the following open source software projects:
@@ -46,3 +51,4 @@ Expert knowledge in image analysis methods for MRI and computer vision. Develope
   * uIP-based web server on 8bit AVR cpu: <https://github.com/vfonov/uhttpd-avr>
   * lwiIP-based web server on 8bit AVR cpu: <https://github.com/vfonov/lwip-avr>
   * low-cost USB JTAG dongle based on 8 bit AVR cpu: <https://github.com/vfonov/opendous-jtag>
+  
