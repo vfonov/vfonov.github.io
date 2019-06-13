@@ -34,6 +34,8 @@ Expert knowledge in image analysis methods for MRI and computer vision. Develope
 
 ### Publications
 * [orcid.org/0000-0003-3402-7749](http://orcid.org/0000-0003-3402-7749)
+* [Google Scholar: http://scholar.google.ca/citations?user=4YCK0vQAAAAJ](http://scholar.google.ca/citations?user=4YCK0vQAAAAJ)
+* [Scopus Author ID: 57188953412](https://www.scopus.com/authid/detail.uri?authorId=57188953412)
 
 ### Languages
 * Russian (native), English (fluent), French (basic speaking, reading)
@@ -51,4 +53,3 @@ Expert knowledge in image analysis methods for MRI and computer vision. Develope
   * uIP-based web server on 8bit AVR cpu: <https://github.com/vfonov/uhttpd-avr>
   * lwiIP-based web server on 8bit AVR cpu: <https://github.com/vfonov/lwip-avr>
   * low-cost USB JTAG dongle based on 8 bit AVR cpu: <https://github.com/vfonov/opendous-jtag>
-  

@@ -9,7 +9,7 @@ Researcher and software developer. Background in applied mathematics and compute
 *medical image analysis* using **MINC, InsightToolkit**; *statistical data analysis* using **R, Python**; *machine learning* with **scikit-learn**; *deep learning* with **pytorch**; *software development* with **C, C++, Python, Perl**
 
 ### Work Experience
-* *July 2018 - present:* Member of Image Analysis Software Group, **NeuroRx**, Montreal Canada
+* *July 2018 - June 2019:* Member of Image Analysis Software Group, **NeuroRx**, Montreal Canada
    *  Maintain existing analysis software, including image-processing tools and analysis pipelines
    *  Optimize code developed in a research environment, and translate it for use in a production environment
    *  Evaluate and stay abreast of new image processing software libraries
@@ -17,7 +17,7 @@ Researcher and software developer. Background in applied mathematics and compute
    *  Document and test software based on standard operating procedures
 * *August 2017 - July 2018:* MRI Acquisition & Analysis Expert, **NeuroRx**, Montreal Canada
 * *November 2009 - August 2017:* Member of Software Development Group, **NeuroRx**, Montreal Canada
-* *June 2005 - present:* Research Associate, **McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University**, Montreal Canada
+* *June 2005 - June 2019:* Research Associate, **McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University**, Montreal Canada
    * developed methods and software for medical imaging analysis of large population studies, including methods based on *deep learning*
    * participated in open competitions for methods of Alzheimer's disease diagnosis and MRI segmentation
    * maintained open source image processing toolkit (see list below)
