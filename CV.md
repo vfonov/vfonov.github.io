@@ -15,7 +15,7 @@ permalink: /cv/
 * 2003 Heriot Watt University (UK) Ph.D., Digital Image Processing & Optical Measurements
 
 ### Research interests
-* MRI image processing, population studies, non-linear registration
+* MRI image processing, population studies, brain morphometry
 
 ### Work Experience
 * June 2019 - Present Rogue Research, research scientist, advanced software developer
@@ -24,11 +24,6 @@ permalink: /cv/
 * Nov 2009 - Jul 2017  NeuroRx Research Canada. Member of software development team
 * Jul 2005 - 2008 McConnell Brain Imaging Centre Montreal Neurological Institute, McGill University (Canada) Postdoc, MRI image processing research in NIHPD project
 * Nov 2003 - Jun 2005 Innovative Scientific Solutions Inc (USA) Scientist, optical measurements, PSP software developer Responsibilities: research in new data processing algorithms development of data processing software for optical measurements research of new optical measurement techniques
-* 2000 - Oct 2003 Edgewood Technologies Corporation (USA) Software Architect, Algorithm Developer, Researcher Visual C++, OpenGL, Corba, Python, SQL  scientific image processing software for PSP, TSP and PIV applications
-* 2001 - 2002 E-corner Internet Cafe (UK) Intranet Development Consultant Linux, Exim, NFS, Samba Intranet development support, security advisor, technical support
-* 2000 9th Millennium International Symposium on Flow Visualization timetable coordinator - conference schedule and coordination
-* 1994 - 1999 Central Aero-hydrodynamic Institute - TsAGI (Russia) C++ Software developer, Visual C++ , Delphi , OpenGL scientific image processing /data acquisition software
-* 1993 - 1994 Tver Universal Bank (Russia) C++,Oracle Programmer user interface for banking software in DOS environment
 
 ### Awards received
 * Second Place on All-Russian Contest on Physics, 1994
@@ -40,7 +35,7 @@ permalink: /cv/
 * 2nd Kyu Aikido-Aikikai, 2017
 
 ### Languages
-* Russian (native), English (fluent), French (a little)
+* Russian (native), English (fluent), French (intermediate)
 
 ### Select Publications
 * V Fonov, AC Evans, K Botteron, CR Almli, RC McKinstry, DL Collins "Unbiased average age-appropriate atlases for pediatric studies" 
@@ -90,21 +85,12 @@ For full list see [orcid.org/0000-0003-3402-7749](http://orcid.org/0000-0003-340
 * Fonov, V. (2002). Development and Analysis of Data Processing Methods Applied to Luminescent Coating Systems in Aerodynamics, Heriot-Watt University.
 
 #### Peer Review contributions
-* [NeuroImage](https://www.journals.elsevier.com/neuroimage/)
-* [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis/)
-* [Scientific Reports - Nature](https://www.nature.com/srep/)
-* [IEEE Transactions on Medical Imaging](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?reload=true&punumber=42)
+* [Publons profile](https://publons.com/researcher/AAG-9572-2019/)
 
 #### Open Source Software contributions
 * Github profile: [vfonov](https://github.com/vfonov/)
-* MNI minc-toolkit maintenance an improvements: <https://github.com/BIC-MNI/>
+* MNI minc-toolkit: <https://github.com/BIC-MNI/>
 * Contribution to open source software
   * Insight Toolkit: <http://www.itk.org/>
   * ANTs: <http://stnava.github.io/ANTs/>
   * Torch7: <https://github.com/torch/torch7>
-* Embedded software:
-  * enhancements in linux kernel module for camera module in mini2440 board: <https://github.com/vfonov/s3c2440camera>
-  * port of mjpg-streamer optimized for mini2440 board: <https://github.com/vfonov/mjpg-streamer-mini2440>
-  * uIP-based web server on 8bit AVR cpu: <https://github.com/vfonov/uhttpd-avr>
-  * lwiIP-based web server on 8bit AVR cpu: <https://github.com/vfonov/lwip-avr>
-  * low-cost USB JTAG dongle based on 8 bit AVR cpu: <https://github.com/vfonov/opendous-jtag>
