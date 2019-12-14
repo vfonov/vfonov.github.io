@@ -11,21 +11,19 @@ Expert knowledge in image analysis methods for MRI and computer vision. Develope
 
 ### Work experience
 * *2019 - present:* Research scientist, advanced software developer, **Rogue Research**, Montreal Canada
-   * develop methods and software for medical image analysis
+   * research and development of methods and software for medical image analysis
 * *2005 - 2019:* Research associate, **McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University**, Montreal Canada
    * developed methods and software for medical imaging analysis of large population studies, including methods based on *deep learning*
    * participated in open competitions for methods of Alzheimer's disease diagnosis and MRI segmentation
    * maintained open source image processing toolkit (see list below)
    * supervised research work of MSc and PhD students in biomedical engineering
-   * co-authored more than 100 academic papers, [Scopus citation index h=28](https://www.scopus.com/authid/detail.uri?authorId=57188953412)
+   * co-authored more than 100 academic papers, [Scopus citation index h=29](https://www.scopus.com/authid/detail.uri?authorId=57188953412)
 * *2009 - 2019:* MRI Acquisition & Analysis Consultant, **NeuroRx Research**, Montreal Canada
    * integrated MRI image processing tools for data analysis in clinical trials for pharmaceutical industry
    * developed novel methods for disease progression quantification in clinical trials
 * *2003 - 2005:* Research Scientist, **Innovative Scientific Solutions Inc**, Dayton OH USA
    * developed image processing methods and software tools for optical measurements in aerodynamic experiments
    * developed data acquisition systems (both software and hardware)
-* *2000 - 2003:* R&D Engineer, **Edgewood Technologies Corp**, USA
-    * developed software for optical measurements in aerodynamic experiments
 
 ### Education
 * *1999-2003:* Heriot-Watt University (UK) **Ph.D.** in Digital Image Processing
@@ -36,13 +34,14 @@ Expert knowledge in image analysis methods for MRI and computer vision. Develope
 * [orcid.org/0000-0003-3402-7749](http://orcid.org/0000-0003-3402-7749)
 * [Google Scholar: http://scholar.google.ca/citations?user=4YCK0vQAAAAJ](http://scholar.google.ca/citations?user=4YCK0vQAAAAJ)
 * [Scopus Author ID: 57188953412](https://www.scopus.com/authid/detail.uri?authorId=57188953412)
+* [Publons profile](https://publons.com/researcher/AAG-9572-2019/)
 
 ### Languages
 * Russian (native), English (fluent), French (basic speaking, reading)
 
 ### Open source software contributions
 * Github profile: [vfonov](https://github.com/vfonov/)
-* Medical image processing toolkit maintainer: <https://github.com/BIC-MNI/>
+* Medical image processing toolkit: <https://github.com/BIC-MNI/>
 * Contributed to the following open source software projects:
   * Insight Toolkit: <http://www.itk.org/>
   * ANTs: <http://stnava.github.io/ANTs/>
