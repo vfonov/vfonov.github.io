@@ -17,16 +17,16 @@ permalink: /cv/
 
 ### Research interests
 
-* MRI image processing, population studies, brain morphometry
+* MRI image processing, population studies, brain morphometry.
 
 ### Work Experience
 
 * June 2019 - Present Rogue Research Inc. (Canada). Research scientist, advanced software developer.
-* Jul 2008 - June 2019 McConnell Brain Imaging Centre Montreal Neurological Institute, McGill University (Canada). Research Associate, MRI image processing research
-* Aug 2017 - June 2019 NeuroRx Research (Canada). MRI Acquisition & Analysis Expert
-* Nov 2009 - Jul 2017  NeuroRx Research (Canada). Member of software development team
-* Jul 2005 - 2008 McConnell Brain Imaging Centre Montreal Neurological Institute, McGill University (Canada). Postdoc, MRI image processing research in NIHPD project
-* Nov 2003 - Jun 2005 Innovative Scientific Solutions Inc. (USA). Scientist, optical measurements, software developer.
+* Aug 2017 - June 2019 NeuroRx Research (Canada). MRI Acquisition & Analysis Expert.
+* Nov 2009 - Jul 2017 NeuroRx Research (Canada). Member of software development team.
+* Jul 2008 - June 2019 McConnell Brain Imaging Centre Montreal Neurological Institute, McGill University (Canada). Research Associate, MRI image processing research.
+* Jul 2005 - 2008 McConnell Brain Imaging Centre Montreal Neurological Institute, McGill University (Canada). Postdoc, MRI image processing research.
+* Nov 2003 - Jun 2005 Innovative Scientific Solutions Inc. (USA). Scientist, software developer optical measurements.
 
 ### Select Publications
 
