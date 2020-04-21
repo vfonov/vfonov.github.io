@@ -4,7 +4,7 @@ title: Vladimir S. FONOV Ph.D.
 permalink: /cv/
 ---
 * E-mail: v.s.fonov@ilmarin.info
-* Publications (online references): 
+* Publications (online references):
   * [Google Scholar: http://scholar.google.ca/citations?user=4YCK0vQAAAAJ](http://scholar.google.ca/citations?user=4YCK0vQAAAAJ)
   * [Scopus Author ID: 57188953412](https://www.scopus.com/authid/detail.uri?authorId=57188953412)
   * [orcid.org/0000-0003-3402-7749](http://orcid.org/0000-0003-3402-7749)
@@ -27,20 +27,6 @@ permalink: /cv/
 * Nov 2009 - Jul 2017  NeuroRx Research Canada. Member of software development team
 * Jul 2005 - 2008 McConnell Brain Imaging Centre Montreal Neurological Institute, McGill University (Canada) Postdoc, MRI image processing research in NIHPD project
 * Nov 2003 - Jun 2005 Innovative Scientific Solutions Inc (USA) Scientist, optical measurements, PSP software developer Responsibilities: research in new data processing algorithms development of data processing software for optical measurements research of new optical measurement techniques
-
-### Awards received
-
-* Second Place on All-Russian Contest on Physics, 1994
-* Stirling University Beginners fencing competition, Epee 1st, 2001
-* 5th Kyu Ki-Aikido, 2005
-* 5th Kyu Aikido-Aikikai, 2006
-* 4th Kyu Aikido-Aikikai, 2007
-* 3rd Kyu Aikido-Aikikai, 2011
-* 2nd Kyu Aikido-Aikikai, 2017
-
-### Languages
-
-* Russian (native), English (fluent), French (intermediate)
 
 ### Select Publications
 
@@ -72,7 +58,7 @@ For full list see [orcid.org/0000-0003-3402-7749](http://orcid.org/0000-0003-340
 * A Carass, JL Cuzzocreo, S Han, CR Hernandez-Castillo, PE Rasser, M Ganz, J Beliveau, J Dolz, I Ben Ayed, C Desrosiers, B Thyreau, JE Romero, P Coupe, JV Manjonn, VS Fonov, DL Collins, SH Ying, CU Onyike, D Crocetti, BA Landman, SH Mostofsky, PM Thompson, JL Prince "Comparing fully automated state-of-the-art cerebellum parcellation from magnetic resonance images" NeuroImage 2018
 * B De Leener, VS Fonov, DL Collins, V Callot, N Stikov, J Cohen-Adad "PAM50: Unbiased multimodal template of the brainstem and spinal cord aligned with the ICBM152 space" NeuroImage 2018
 * L Wang, D Nie, G Li, E Puybareau, J Dolz, Q Zhang, F Wang, J Xia, Z Wu, J Chen, K-H Thung, T D Bui, J Shin, G Zeng, G Zheng, VS Fonov, A Doyle, Y Xu, P Moeskops, JPW Pluim, C Desrosiers, IB Ayed, G Sanroma, OM Benkarim, A Casamitjana, V Vilaplana, W Lin, G Li, D Shen "Benchmark on Automatic 6-month-old Infant Brain Segmentation Algorithms: The iSeg-2017 Challenge" IEEE Transactions on Medical Imaging 2019
-* S Narayanan, K Nakamura, VS Fonov ,J Maranzano ,Z Caramanos, PS Giacomini, DL Collins, DL Arnold "Brain volume loss in individuals over time: Source of variance and limits of detectability" NeuroImage 2020
+* S Narayanan, K Nakamura, VS Fonov, J Maranzano, Z Caramanos, PS Giacomini, DL Collins, DL Arnold "Brain volume loss in individuals over time: Source of variance and limits of detectability" NeuroImage 2020
 
 #### Patent
 
@@ -80,8 +66,7 @@ For full list see [orcid.org/0000-0003-3402-7749](http://orcid.org/0000-0003-340
 
 #### Peer Review contributions
 
-[Publons profile](https://publons.com/researcher/AAG-9572-2019/)
-Reviewed academic papers in the following journals:
+Publons profile: [https://publons.com/researcher/AAG-9572-2019/](https://publons.com/researcher/AAG-9572-2019/)
 
 * NeuroImage
 * Human Brain Mapping
@@ -96,3 +81,17 @@ Reviewed academic papers in the following journals:
   * Insight Toolkit: <http://www.itk.org/>
   * ANTs: <http://stnava.github.io/ANTs/>
   * libigl: <https://libigl.github.io/>
+
+### Awards received
+
+* Second Place on All-Russian Contest on Physics, 1994
+* Stirling University Beginners fencing competition, Epee 1st, 2001
+* 5th Kyu Ki-Aikido, 2005
+* 5th Kyu Aikido-Aikikai, 2006
+* 4th Kyu Aikido-Aikikai, 2007
+* 3rd Kyu Aikido-Aikikai, 2011
+* 2nd Kyu Aikido-Aikikai, 2017
+
+### Languages
+
+* Russian (native), English (fluent), French (intermediate)
