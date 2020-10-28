@@ -10,18 +10,19 @@ Expert knowledge in image analysis methods for MRI and computer vision. Develope
 *statistical data analysis* using **R, Python**; *machine learning* with **scikit-learn**; *deep learning* with **pytorch**; *software development* with **C, C++, Python, Lua , Perl**
 
 ### Work experience
-* *2019 - present:* Research scientist, advanced software developer, **Rogue Research**, Montreal Canada
+* *2020 - present*: Academic associate, **McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University**, Montreal Canada
+* *2019 - 2020:* Research scientist, advanced software developer, **Rogue Research**, Montreal Canada
    * research and development of methods and software for medical image analysis
-* *2005 - 2019:* Research associate, **McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University**, Montreal Canada
+* *2005 - 2019*: Research associate, **McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University**, Montreal Canada
    * developed methods and software for medical imaging analysis of large population studies, including methods based on *deep learning*
    * participated in open competitions for methods of Alzheimer's disease diagnosis and MRI segmentation
    * maintained open source image processing toolkit (see list below)
    * supervised research work of MSc and PhD students in biomedical engineering
-   * co-authored more than 100 academic papers, [Scopus citation index h=29](https://www.scopus.com/authid/detail.uri?authorId=57188953412)
-* *2009 - 2019:* MRI Acquisition & Analysis Consultant, **NeuroRx Research**, Montreal Canada
+   * co-authored more than 100 academic papers, [Scopus citation index h=34](https://www.scopus.com/authid/detail.uri?authorId=57188953412)
+* *2009 - 2019*: MRI Acquisition & Analysis Consultant, **NeuroRx Research**, Montreal Canada
    * integrated MRI image processing tools for data analysis in clinical trials for pharmaceutical industry
    * developed novel methods for disease progression quantification in clinical trials
-* *2003 - 2005:* Research Scientist, **Innovative Scientific Solutions Inc**, Dayton OH USA
+* *2003 - 2005*: Research Scientist, **Innovative Scientific Solutions Inc**, Dayton OH USA
    * developed image processing methods and software tools for optical measurements in aerodynamic experiments
    * developed data acquisition systems (both software and hardware)
 
@@ -43,6 +44,7 @@ Expert knowledge in image analysis methods for MRI and computer vision. Develope
 * Github profile: [vfonov](https://github.com/vfonov/)
 * Medical image processing toolkit: <https://github.com/BIC-MNI/>
 * Contributed to the following open source software projects:
+  * libigl: <https://libigl.github.io/>
   * Insight Toolkit: <http://www.itk.org/>
   * ANTs: <http://stnava.github.io/ANTs/>
   * Torch7: <https://github.com/torch/torch7>

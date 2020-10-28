@@ -21,7 +21,8 @@ permalink: /cv/
 
 ### Work Experience
 
-* June 2019 - Present Rogue Research Inc. (Canada). Research scientist, advanced software developer.
+* July 2020 - Present McConnell Brain Imaging Centre Montreal Neurological Institute, McGill University (Canada). Academic Associate, MRI image processing research.
+* June 2019 - June 2020 Rogue Research Inc. (Canada). Research scientist, advanced software developer.
 * Aug 2017 - June 2019 NeuroRx Research (Canada). MRI Acquisition & Analysis Expert.
 * Nov 2009 - Jul 2017 NeuroRx Research (Canada). Member of software development team.
 * Jul 2008 - June 2019 McConnell Brain Imaging Centre Montreal Neurological Institute, McGill University (Canada). Research Associate, MRI image processing research.
