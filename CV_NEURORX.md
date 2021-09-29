@@ -9,6 +9,9 @@ Researcher and software developer. Background in applied mathematics and compute
 *medical image analysis* using **MINC, InsightToolkit**; *statistical data analysis* using **R, Python**; *machine learning* with **scikit-learn**; *deep learning* with **pytorch**; *software development* with **C, C++, Python, Perl**
 
 ### Work Experience
+* *2020 - present*: Academic associate, **McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University**, Montreal Canada
+* *2019 - 2020:* Research scientist, advanced software developer, **Rogue Research**, Montreal Canada
+   * research and development of methods and software for medical image analysis
 * *July 2018 - June 2019:* Member of Image Analysis Software Group, **NeuroRx**, Montreal Canada
    *  Maintain existing analysis software, including image-processing tools and analysis pipelines
    *  Optimize code developed in a research environment, and translate it for use in a production environment
@@ -46,6 +49,7 @@ Researcher and software developer. Background in applied mathematics and compute
 * Medical image processing toolkit maintainer: <https://github.com/BIC-MNI/>
 * Contributed to the following open source software projects:
   * Insight Toolkit: <http://www.itk.org/>
+  * libigl: <https://libigl.github.io/>
   * ANTs: <http://stnava.github.io/ANTs/>
   * Torch7: <https://github.com/torch/torch7>
   * enhancements in linux kernel module for camera module in mini2440 board: <https://github.com/vfonov/s3c2440camera>

@@ -59,11 +59,11 @@ For full list see [orcid.org/0000-0003-3402-7749](http://orcid.org/0000-0003-340
 * A Carass, JL Cuzzocreo, S Han, CR Hernandez-Castillo, PE Rasser, M Ganz, J Beliveau, J Dolz, I Ben Ayed, C Desrosiers, B Thyreau, JE Romero, P Coupe, JV Manjonn, VS Fonov, DL Collins, SH Ying, CU Onyike, D Crocetti, BA Landman, SH Mostofsky, PM Thompson, JL Prince "Comparing fully automated state-of-the-art cerebellum parcellation from magnetic resonance images" NeuroImage 2018
 * B De Leener, VS Fonov, DL Collins, V Callot, N Stikov, J Cohen-Adad "PAM50: Unbiased multimodal template of the brainstem and spinal cord aligned with the ICBM152 space" NeuroImage 2018
 * L Wang, D Nie, G Li, E Puybareau, J Dolz, Q Zhang, F Wang, J Xia, Z Wu, J Chen, K-H Thung, T D Bui, J Shin, G Zeng, G Zheng, VS Fonov, A Doyle, Y Xu, P Moeskops, JPW Pluim, C Desrosiers, IB Ayed, G Sanroma, OM Benkarim, A Casamitjana, V Vilaplana, W Lin, G Li, D Shen "Benchmark on Automatic 6-month-old Infant Brain Segmentation Algorithms: The iSeg-2017 Challenge" IEEE Transactions on Medical Imaging 2019
+* AL Manera, M Dadar, V Fonov, DL Collins "CerebrA, registration and manual label correction of Mindboggle-101 atlas for MNI-ICBM152 template" Scientific Data 7 (1), 1-9
 * S Narayanan, K Nakamura, VS Fonov, J Maranzano, Z Caramanos, PS Giacomini, DL Collins, DL Arnold "Brain volume loss in individuals over time: Source of variance and limits of detectability" NeuroImage 2020
-
-#### Patent
-
-* MA Styner, SH KIM, DL COLLINS, VS Fonov, BC Munsell, J Piven, HC Hazlett "Methods, systems, and computer readable media for utilizing brain structural characteristics for predicting a diagnosis of a neurobehavioral disorder" US Patent (pending) 2018
+* C Zha, CA Farah, V Fonov, DA Rudko, WS Sossin "MRI of Capn15 Knockout Mice and Analysis of Capn 15 Distribution Reveal Possible Roles in Brain Development and Plasticity" Neuroscience 2021
+* K Parmar, VS Fonov, Y Naegelin, M Amann, J Wuerfel, DL Collins, et al "Regional Cerebellar Volume Loss Predicts Future Disability in Multiple Sclerosis Patients" The Cerebellum, 1-15 2021
+* M Dadar, AL Manera, VS Fonov, S Ducharme, DL Collins "MNI-FTD templates, unbiased average templates of frontotemporal dementia variants" Scientific data 8 (1), 1-10 2021
 
 #### Peer Review contributions
 
@@ -73,6 +73,7 @@ Publons profile: [https://publons.com/researcher/AAG-9572-2019/](https://publons
 * Human Brain Mapping
 * Medical Image Analysis
 * IEEE Transactions on Medical Imaging
+* Frontiers 
 
 #### Open Source Software contributions
 
@@ -95,4 +96,4 @@ Publons profile: [https://publons.com/researcher/AAG-9572-2019/](https://publons
 
 ### Languages
 
-* Russian (native), English (fluent), French (intermediate)
+* Russian (native), English (fluent), French (basic speaking, reading)
