@@ -18,7 +18,7 @@ Expert knowledge in image analysis methods for MRI and computer vision. Develope
    * participated in open competitions for methods of Alzheimer's disease diagnosis and MRI segmentation
    * maintained open source image processing toolkit (see list below)
    * supervised research work of MSc and PhD students in biomedical engineering
-   * co-authored more than 100 academic papers, [Scopus citation index h=34](https://www.scopus.com/authid/detail.uri?authorId=57188953412)
+   * co-authored more than 100 academic papers, [Scopus citation index h=39](https://www.scopus.com/authid/detail.uri?authorId=57188953412)
 * *2009 - 2019*: MRI Acquisition & Analysis Consultant, **NeuroRx Research**, Montreal Canada
    * integrated MRI image processing tools for data analysis in clinical trials for pharmaceutical industry
    * developed novel methods for disease progression quantification in clinical trials
