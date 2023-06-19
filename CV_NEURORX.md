@@ -25,12 +25,10 @@ Researcher and software developer. Background in applied mathematics and compute
    * participated in open competitions for methods of Alzheimer's disease diagnosis and MRI segmentation
    * maintained open source image processing toolkit (see list below)
    * supervised research work of MSc and PhD students in biomedical engineering
-   * co-authored more than 100 academic papers, [Scopus citation index h=23](https://www.scopus.com/authid/detail.uri?authorId=57188953412)
+   * co-authored more than 100 academic papers, [Scopus citation index h=45](https://www.scopus.com/authid/detail.uri?authorId=57188953412)
 * *2003 - 2005:* Research Scientist, **Innovative Scientific Solutions Inc**, Dayton OH USA
    * developed image processing methods and software tools for optical measurements in aerodynamic experiments
    * developed data acquisition systems (both software and hardware)
-* *2000 - 2003:* R&D Engineer, **Edgewood Technologies Corp**, USA
-    * developed software for optical measurements in aerodynamic experiments
 
 ### Education
 * *1999-2003:* Heriot-Watt University (UK) **Ph.D.** in Digital Image Processing
