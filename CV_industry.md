@@ -4,7 +4,8 @@ title: Vladimir S. FONOV Ph.D.
 permalink: /cv_ind/
 ---
 Researcher and software developer. Background in applied mathematics and computer science. More than 20 years of experience, including 18 years focused in medical image processing and analysis.
-Expert knowledge in image analysis methods for MRI and computer vision. Developed methods for diagnostics of neurological diseases and tracking normal development of the human brain. Co-authored more than 150 academic papers [h=45](https://www.scopus.com/authid/detail.uri?authorId=57188953412). Consulted for data processing methods in clinical trials for drug development.
+
+Expert knowledge in image analysis methods for MRI and computer vision. Developed methods for diagnostics of neurological diseases and tracking normal development of the human brain. Co-authored more than 150 academic papers [h=45](https://www.scopus.com/authid/detail.uri?authorId=57188953412). Consulted for image processing methods and statistical analysis in clinical trials for drug development.
 
 ###  Technical skills
 *data analysis* using **R, Python, Julia**; *machine learning* with **scikit-learn**; *deep learning* with **pytorch**; *software development* with **C, C++, Python, Julia**
@@ -58,5 +59,5 @@ Expert knowledge in image analysis methods for MRI and computer vision. Develope
   * port of mjpg-streamer optimized for mini2440 board: <https://github.com/vfonov/mjpg-streamer-mini2440>
 
 ### Non-academic data analysis articles
-* Blog posts on various data science topics: [Habr blog posts]<https://habr.com/ru/users/ilmarin77/posts/>
+* Blog posts on various data science topics: [Habr.com](https://habr.com/ru/users/ilmarin77/posts/)
 
