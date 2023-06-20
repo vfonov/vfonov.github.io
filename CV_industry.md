@@ -44,7 +44,7 @@ Expert knowledge in image analysis methods for MRI and computer vision. Develope
 * [orcid.org/0000-0003-3402-7749](http://orcid.org/0000-0003-3402-7749)
 * [Google Scholar: http://scholar.google.ca/citations?user=4YCK0vQAAAAJ](http://scholar.google.ca/citations?user=4YCK0vQAAAAJ)
 * [Scopus Author ID: 57188953412](https://www.scopus.com/authid/detail.uri?authorId=57188953412)
-* [Publons profile](https://publons.com/researcher/AAG-9572-2019/)
+* [Web of Science ResearcherID: AAG-9572-2019](https://www.webofscience.com/wos/author/rid/AAG-9572-2019)
 
 ### Languages
 * Russian (native), English (fluent), French (basic speaking, reading)
@@ -65,5 +65,4 @@ Expert knowledge in image analysis methods for MRI and computer vision. Develope
   * port of mjpg-streamer optimized for mini2440 board: <https://github.com/vfonov/mjpg-streamer-mini2440>
 
 ### Non-academic data analysis articles
-* Blog posts on various data science topics: [Habr.com](https://habr.com/ru/users/ilmarin77/posts/)
-
+* Blog posts on various data science topics: <https://habr.com/en/users/ilmarin77/posts/>
