@@ -15,6 +15,8 @@ Expert knowledge in image analysis methods for MRI and computer vision. Develope
    *  wrote academic papers on image processing methods
    *  participated in open competitions on semantic segmentation of medical images
    *  supervised research work of MSc and PhD students in biomedical engineering
+* *2009 - present*: System Administrator, University Lab **Douglas Hospital, McGill University**, Montreal Canada
+   *  Managed and maintained a diverse range of workstations and a high-performance computing (HPC) cluster, all running Ubuntu Linux, to support research and academic activities.
 * *2019 - 2020:* Research scientist, advanced software developer, **Rogue Research**, Montreal Canada
    *  research and development of methods and software for medical image analysis
 * *2005 - 2019*: Research associate, **McConnell Brain Imaging Centre, Montreal Neurological Institute, McGill University**, Montreal Canada
@@ -28,6 +30,10 @@ Expert knowledge in image analysis methods for MRI and computer vision. Develope
    *  Optimized code developed in a research environment, and translate it for use in a production environment
    *  Defined, designed and implemented novel image-processing tools
    *  Documented and tested software
+   *  Performed statistical data analysis 
+* *2003 - 2005:* Research Scientist, **Innovative Scientific Solutions Inc**, Dayton OH USA
+   * developed image processing methods and software tools for optical measurements in aerodynamic experiments
+   * developed data acquisition systems (both software and hardware)
 
 ### Education
 * *1999-2003:* Heriot-Watt University (UK) **Ph.D.** in Digital Image Processing
